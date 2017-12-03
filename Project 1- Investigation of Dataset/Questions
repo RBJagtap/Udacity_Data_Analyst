@@ -1,4 +1,5 @@
-After analysing the data, few questions raised in my mind those are as follows:
+Data analysis start with analysing the available data and generating questions in the mind.
+After analysing the data, few questions have been raised in my mind those are as follows:
 Question: 1) How many male / female survived / died from the ship with respect to different Pclass (First class, Second class, third class)?
 Question: 2) What is the percentage of survived / died passengers with respect to different age groups (child, teen, young, audult, oldsters), gender of passenger, passenger embarked station?
 Question 3) What is the correlation between the number of surviors and fare with respect to same Age_Group and Station?
